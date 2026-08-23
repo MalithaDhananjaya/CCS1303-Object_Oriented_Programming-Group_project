@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1487cb25-e9ee-4953-8301-d7ec9a0fea48" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0133224201838744" />
+      <entry key="MS500" value="1.4216155551250562" />
+      <entry key="S2" value="1.8058035128770176" />
+      <entry key="S5" value="1.9172583259609612" />
+      <entry key="S10" value="1.9577360419034888" />
+      <entry key="S30" value="1.9857087470037114" />
+      <entry key="S60" value="1.9928286594391358" />
+      <entry key="M2" value="1.9964078780495143" />
+      <entry key="M5" value="1.9985615998456248" />
+      <entry key="M10" value="1.9992805411122667" />
+      <entry key="M15" value="1.9995203032096585" />
+      <entry key="M30" value="1.999760122834302" />
+      <entry key="H1" value="1.9998800542236563" />
+      <entry key="H2" value="1.9999400253133466" />
+      <entry key="H4" value="1.9999700122070396" />
+      <entry key="D1" value="1.9999950019720563" />
+      <entry key="W1" value="1.9999992859944786" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.013616806860556632" />
+      <entry key="MS500" value="0.6183061664634476" />
+      <entry key="S2" value="1.4717600824640102" />
+      <entry key="S5" value="1.7671789404659342" />
+      <entry key="S10" value="1.879647433798053" />
+      <entry key="S30" value="1.9589706574489452" />
+      <entry key="S60" value="1.9793690339019523" />
+      <entry key="M2" value="1.98965526639887" />
+      <entry key="M5" value="1.9958550636609036" />
+      <entry key="M10" value="1.9979263561113978" />
+      <entry key="M15" value="1.9986173093289024" />
+      <entry key="M30" value="1.9993085239231356" />
+      <entry key="H1" value="1.9996542292696182" />
+      <entry key="H2" value="1.9998271064609943" />
+      <entry key="H4" value="1.9999135511869397" />
+      <entry key="D1" value="1.9999855915806537" />
+      <entry key="W1" value="1.9999979416474278" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IDXOd1C1PSBeGG0WlUvBmBR0Xk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.hospital [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hospital [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HospitalApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hmmal/Downloads/hospital (1)&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1487cb25-e9ee-4953-8301-d7ec9a0fea48" name="Changes" comment="" />
+      <created>1787300081948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787300081948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
