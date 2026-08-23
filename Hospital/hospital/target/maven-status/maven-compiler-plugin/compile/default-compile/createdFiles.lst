@@ -1,0 +1,6 @@
+com\smartcare\hospital\HospitalApplication.class
+com\smartcare\hospital\model\Patient.class
+com\smartcare\hospital\model\Person.class
+com\smartcare\hospital\controller\PatientController.class
+com\smartcare\hospital\service\PatientService.class
+com\smartcare\hospital\repository\PatientRepository.class
